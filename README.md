@@ -1,4 +1,4 @@
-Hi! I'm Natal, a beginner backend developer.
+Hi! I'm Natalia, a beginner backend developer.
 
 💻 I'm learning Java, Spring Boot, and creating my first real project, a mini-SaaS application.
 ⚡ My goal is to fully transition to a remote income, so I can be free to choose my country, time, and work.
